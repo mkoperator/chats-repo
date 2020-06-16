@@ -3,7 +3,7 @@ entries:
   hello-world:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-16T13:23:44.653535-05:00"
+    created: "2020-06-16T13:34:45.262556-05:00"
     description: A Helm chart for Kubernetes
     digest: 5c8acf0fbffc61a9b6493df01d527bb8c66889d82f41740fa52d7dd9bcfdb2e3
     name: hello-world
@@ -12,7 +12,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-16T13:23:44.651442-05:00"
+    created: "2020-06-16T13:34:45.261357-05:00"
     description: A Helm chart for Kubernetes
     digest: d263b71dd33c55deb2d505a4c66d164b5f23b52f53d58dfbd4e17a2286958c70
     name: hello-world
@@ -21,11 +21,21 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-16T13:23:44.651116-05:00"
+    created: "2020-06-16T13:34:45.261058-05:00"
     description: A Helm chart for Kubernetes
     digest: 1f4084ef218e271cfe59c5c88207d5c17f37458ec2103242032eb265806ee48f
     name: hello-world
     urls:
     - https://thecrazyrussian.github.io/chats-repo/hello-world-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-16T13:23:44.650525-05:00"
+  hello2:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-16T13:34:45.262871-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 03ff9018cc411bec865703b6b531e32c6d564144e26448c62ad7ad0b849e59ff
+    name: hello2
+    urls:
+    - https://thecrazyrussian.github.io/chats-repo/hello2-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-16T13:34:45.260088-05:00"
